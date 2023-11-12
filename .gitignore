@@ -1,3 +1,4 @@
 target/
 **/input.example.txt
 **/input.txt
+**/main
